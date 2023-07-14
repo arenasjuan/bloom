@@ -1,0 +1,6 @@
+﻿  asst7.cpp
+c:\users\juan\cs175\cs175juan\asst7_sol\asst7.cpp(992): warning C4838: conversion from 'const double' to 'float' requires a narrowing conversion
+c:\users\juan\cs175\cs175juan\asst7_sol\asst7.cpp(1011): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\juan\cs175\cs175juan\asst7_sol\asst7.cpp(1011): warning C4838: conversion from 'const double' to 'float' requires a narrowing conversion
+  asst3.vcxproj -> C:\Users\Juan\cs175\cs175juan\asst7_sol\.\Debug\asst7.exe
+  asst3.vcxproj -> .\Debug\asst7.pdb (Full PDB)
